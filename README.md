@@ -1,12 +1,12 @@
 # About Me:
 Currently developing full-stack platforms and optimization tools.
 
-Experience gained in pinned projects:
-Advanced-Data-Resource-Management: SQL Database Management/Design, Data Analytics/Visualization, Python
-Data-Analytics (also see Data-Science-Term-Project): Machine Learning, Data Analytics/Visualization, Python
-Machine-Learning-Apps: Machine Learning, Data Analytics/Visualization, Python
-RPI-Fraternity-Sorority-Commons-Website/FSC-Website: Django Database Management/Design, Python, Web Design
-ArnavPawar/travelChatbot: Project Management (User Stories, Test Driven Development, Agile Metholodies, User Research and Testing), Python
+Experience gained in pinned projects:  
+Advanced-Data-Resource-Management: SQL Database Management/Design, Data Analytics/Visualization, Python  
+Data-Analytics (also see Data-Science-Term-Project): Machine Learning, Data Analytics/Visualization, Python  
+Machine-Learning-Apps: Machine Learning, Data Analytics/Visualization, Python  
+RPI-Fraternity-Sorority-Commons-Website/FSC-Website: Django Database Management/Design, Python, Web Design  
+ArnavPawar/travelChatbot: Project Management (User Stories, Test Driven Development, Agile Metholodies, User Research and Testing), Python  
 PokeScript: Web Design/Animations, Javascript, HTML, CSS, Game Logic
 
 ## 🌐 Socials:
