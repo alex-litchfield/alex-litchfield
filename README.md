@@ -1,6 +1,14 @@
 # About Me:
 Currently developing full-stack platforms and optimization tools.
 
+Experience gained in pinned projects:
+Advanced-Data-Resource-Management: SQL Database Management/Design, Data Analytics/Visualization, Python
+Data-Analytics (also see Data-Science-Term-Project): Machine Learning, Data Analytics/Visualization, Python
+Machine-Learning-Apps: Machine Learning, Data Analytics/Visualization, Python
+RPI-Fraternity-Sorority-Commons-Website/FSC-Website: Django Database Management/Design, Python, Web Design
+ArnavPawar/travelChatbot: Project Management (User Stories, Test Driven Development, Agile Metholodies, User Research and Testing), Python
+PokeScript: Web Design/Animations, Javascript, HTML, CSS, Game Logic
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-litchfield/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexblitchfield@gmail.com) 
 
