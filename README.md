@@ -2,6 +2,7 @@
 Currently developing full-stack platforms and optimization tools.
 
 Experience gained in pinned projects:  
+  
 Advanced-Data-Resource-Management: SQL Database Management/Design, Data Analytics/Visualization, Python  
 Data-Analytics (also see Data-Science-Term-Project): Machine Learning, Data Analytics/Visualization, Python  
 Machine-Learning-Apps: Machine Learning, Data Analytics/Visualization, Python  
