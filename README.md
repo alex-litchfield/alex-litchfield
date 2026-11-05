@@ -7,7 +7,7 @@ Advanced-Data-Resource-Management: SQL Database Management/Design, Data Analytic
 Data-Analytics (also see Data-Science-Term-Project): Machine Learning, Data Analytics/Visualization, Python, R  
 Machine-Learning-Apps: Machine Learning, Data Analytics/Visualization, Python  
 RPI-Fraternity-Sorority-Commons-Website/FSC-Website: Django Database Management/Design, Python, Web Design  
-ArnavPawar/travelChatbot: Project Management (User Stories, Test Driven Development, Agile Metholodies, User Research and Testing), Python  
+ArnavPawar/travelChatbot: Project Management (User Stories, Test Driven Development, Agile Metholodies, User Research and Testing), Vue  
 PokeScript: Web Design/Animations, Javascript, HTML, CSS, Game Logic
 
 ## 🌐 Socials:
